@@ -20,14 +20,15 @@ Hashlib (MD5 Checksum)
 Datetime Module
 
 ## Project Structure
-``` Automatic-Backup-System/
+```
+ Automatic-Backup-System/
 │
 ├── backup.py
 ├── source_files/
 ├── backups/
 ├── logs/
 └── README.md
-
+```
 ## How It Works
 Select the source file or folder.
 The system creates a backup in the backup directory.
