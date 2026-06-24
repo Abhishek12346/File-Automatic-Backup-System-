@@ -54,18 +54,18 @@ a1b2c3d4e5f6...
 
 Integrity Check: PASSED
 
-#Future Enhancements
+# Future Enhancements
 Scheduled automatic backups
 Cloud storage integration
 Email notifications
 Incremental backups
 GUI using Tkinter or PyQt
 
-#Resume Highlights
+# Resume Highlights
 Developed a Python-based Automatic Backup System.
 Implemented MD5 checksum validation for data integrity verification.
 Automated file backup and recovery processes to reduce data loss risks.
 
-#Author
+# Author
 
 Abhishek Dhaygude
